@@ -15,7 +15,7 @@ Generally¸ FinishAction is TLResume
 * BottomPosition
 * FinishAction
 
-### CombatZoneResizeAuto ###
+### CombatZoneResizeInstant ###
 Instantly resize the combat zone
 
 * LeftPosition
